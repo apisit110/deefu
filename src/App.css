@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
+}
+body {
+  font-size: 18px;
+  line-height: 1.8;
+}
